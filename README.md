@@ -77,7 +77,7 @@ I focus on data analysis, building ML models for prediction, creating interactiv
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="40" height="40" alt="Excel"/>
+      <img src="https://skillicons.dev/icons?i=excel" width="40" height="40" alt="Excel"/>
       <br>Excel
     </td>
     <td align="center" width="96">
