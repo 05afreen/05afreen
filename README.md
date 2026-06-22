@@ -77,7 +77,7 @@ I focus on data analysis, building ML models for prediction, creating interactiv
       <br>Power BI
     </td>
     <td align="center" width="96" style="border:1px solid #30363d; border-radius:6px; padding:10px;">
-      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" height="40" alt="Excel"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftexcel.svg" width="40" height="40" alt="Excel"/>
       <br>Excel
     </td>
     <td align="center" width="96" style="border:1px solid #30363d; border-radius:6px; padding:10px;">
